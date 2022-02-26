@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @shawnbrito
-- 👀 I'm currently automating deployment of various software using Ansible. Go thorugh my site and download anything you might feel interesting..
-- 🌱 I’m currently learning Docker & Kubernetes and hope to using ansible automation to accomplish many goals.
+- 👀 I'm currently automating deployment of various software using Ansible. 
+- 👀 Go thorugh my site and download anything you might feel interesting..
+- 🌱 I’m currently learning Docker & Kubernetes and hope to use ansible automation to accomplish many goals.
 - 💞️ I love server monitoring & load-balancing large scale applications.
 - 📫 How to reach me : +94714361444
 
